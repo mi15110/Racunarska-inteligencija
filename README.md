@@ -1,1 +1,1 @@
-# Ra-unarska-inteligencija
+# Računarska-inteligencija
