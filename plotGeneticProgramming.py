@@ -1,6 +1,3 @@
-# tiny genetic programming plus, by © moshe sipper, www.moshesipper.com
-# graphic output, dynamic progress display, bloat-control option 
-# need to install https://pypi.org/project/graphviz/
 
 from random import random, randint, seed
 from statistics import mean
